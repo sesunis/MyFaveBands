@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface MyFaveBandsMasterViewController : UITableViewController
-
+{
+    NSArray *list;
+}
+@property (strong, nonatomic) NSArray *list;
 @end

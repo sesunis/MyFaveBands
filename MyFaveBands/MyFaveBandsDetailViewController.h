@@ -9,8 +9,15 @@
 #import <UIKit/UIKit.h>
 
 @interface MyFaveBandsDetailViewController : UIViewController
+{
+    //1) Add Default initializers
+    NSString *productName;
+    CGFloat previousScale;
+    CGFloat previousRotation;
+    CGFloat beginX;
+    CGFloat beginY;
+}
+@property (strong, nonatomic) IBOutlet UIImageView *productImageView;
+@property (strong, nonatomic) NSString *productName;
 
-@property (strong, nonatomic) id detailItem;
-
-@property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 @end

@@ -22,6 +22,26 @@
 		4E65C56018CC0A90007543C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E65C53F18CC0A90007543C7 /* UIKit.framework */; };
 		4E65C56818CC0A90007543C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C56618CC0A90007543C7 /* InfoPlist.strings */; };
 		4E65C56A18CC0A90007543C7 /* MyFaveBandsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E65C56918CC0A90007543C7 /* MyFaveBandsTests.m */; };
+		4E65C57918CC1D6D007543C7 /* DC Talk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57418CC1D6D007543C7 /* DC Talk.jpg */; };
+		4E65C57A18CC1D6D007543C7 /* Geoff Moore.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57518CC1D6D007543C7 /* Geoff Moore.jpg */; };
+		4E65C57B18CC1D6D007543C7 /* Michael W. Smith.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57618CC1D6D007543C7 /* Michael W. Smith.jpg */; };
+		4E65C57C18CC1D6D007543C7 /* Newsboys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57718CC1D6D007543C7 /* Newsboys.jpg */; };
+		4E65C57D18CC1D6D007543C7 /* Twila Paris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57818CC1D6D007543C7 /* Twila Paris.jpg */; };
+		4E65C58318CC1D8C007543C7 /* Audio Adrenaline.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57E18CC1D8C007543C7 /* Audio Adrenaline.jpeg */; };
+		4E65C58418CC1D8C007543C7 /* Avalon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C57F18CC1D8C007543C7 /* Avalon.jpg */; };
+		4E65C58518CC1D8C007543C7 /* Petra Praise.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58018CC1D8C007543C7 /* Petra Praise.jpg */; };
+		4E65C58618CC1D8C007543C7 /* Pray For Rain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58118CC1D8C007543C7 /* Pray For Rain.jpg */; };
+		4E65C58718CC1D8C007543C7 /* Skillet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58218CC1D8C007543C7 /* Skillet.jpg */; };
+		4E65C59118CC2058007543C7 /* Avalon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58918CC2058007543C7 /* Avalon.png */; };
+		4E65C59218CC2058007543C7 /* DC Talk.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58A18CC2058007543C7 /* DC Talk.png */; };
+		4E65C59318CC2058007543C7 /* Geoff Moore.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58B18CC2058007543C7 /* Geoff Moore.png */; };
+		4E65C59418CC2058007543C7 /* Michael W. Smith.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58C18CC2058007543C7 /* Michael W. Smith.png */; };
+		4E65C59518CC2058007543C7 /* Newsboys.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58D18CC2058007543C7 /* Newsboys.png */; };
+		4E65C59618CC2058007543C7 /* Petra Praise.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58E18CC2058007543C7 /* Petra Praise.png */; };
+		4E65C59718CC2058007543C7 /* Pray For Rain.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C58F18CC2058007543C7 /* Pray For Rain.png */; };
+		4E65C59818CC2058007543C7 /* Skillet.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C59018CC2058007543C7 /* Skillet.png */; };
+		4E65C59A18CC2077007543C7 /* Audio Adrenaline.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C59918CC2077007543C7 /* Audio Adrenaline.png */; };
+		4E65C59C18CC20F5007543C7 /* Twila Paris.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E65C59B18CC20F5007543C7 /* Twila Paris.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +76,26 @@
 		4E65C56518CC0A90007543C7 /* MyFaveBandsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFaveBandsTests-Info.plist"; sourceTree = "<group>"; };
 		4E65C56718CC0A90007543C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4E65C56918CC0A90007543C7 /* MyFaveBandsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFaveBandsTests.m; sourceTree = "<group>"; };
+		4E65C57418CC1D6D007543C7 /* DC Talk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "DC Talk.jpg"; path = "../Week-6-MyFavBands-iOS7/DC Talk.jpg"; sourceTree = "<group>"; };
+		4E65C57518CC1D6D007543C7 /* Geoff Moore.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Geoff Moore.jpg"; path = "../Week-6-MyFavBands-iOS7/Geoff Moore.jpg"; sourceTree = "<group>"; };
+		4E65C57618CC1D6D007543C7 /* Michael W. Smith.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Michael W. Smith.jpg"; path = "../Week-6-MyFavBands-iOS7/Michael W. Smith.jpg"; sourceTree = "<group>"; };
+		4E65C57718CC1D6D007543C7 /* Newsboys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Newsboys.jpg; path = "../Week-6-MyFavBands-iOS7/Newsboys.jpg"; sourceTree = "<group>"; };
+		4E65C57818CC1D6D007543C7 /* Twila Paris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Twila Paris.jpg"; path = "../Week-6-MyFavBands-iOS7/Twila Paris.jpg"; sourceTree = "<group>"; };
+		4E65C57E18CC1D8C007543C7 /* Audio Adrenaline.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Audio Adrenaline.jpeg"; path = "../../Downloads/Audio Adrenaline.jpeg"; sourceTree = "<group>"; };
+		4E65C57F18CC1D8C007543C7 /* Avalon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Avalon.jpg; path = ../../Downloads/Avalon.jpg; sourceTree = "<group>"; };
+		4E65C58018CC1D8C007543C7 /* Petra Praise.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Petra Praise.jpg"; path = "../../Downloads/Petra Praise.jpg"; sourceTree = "<group>"; };
+		4E65C58118CC1D8C007543C7 /* Pray For Rain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pray For Rain.jpg"; path = "../../Downloads/Pray For Rain.jpg"; sourceTree = "<group>"; };
+		4E65C58218CC1D8C007543C7 /* Skillet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Skillet.jpg; path = ../../Downloads/Skillet.jpg; sourceTree = "<group>"; };
+		4E65C58918CC2058007543C7 /* Avalon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Avalon.png; path = ../Avalon.png; sourceTree = "<group>"; };
+		4E65C58A18CC2058007543C7 /* DC Talk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "DC Talk.png"; path = "../DC Talk.png"; sourceTree = "<group>"; };
+		4E65C58B18CC2058007543C7 /* Geoff Moore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Geoff Moore.png"; path = "../Geoff Moore.png"; sourceTree = "<group>"; };
+		4E65C58C18CC2058007543C7 /* Michael W. Smith.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Michael W. Smith.png"; path = "../Michael W. Smith.png"; sourceTree = "<group>"; };
+		4E65C58D18CC2058007543C7 /* Newsboys.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Newsboys.png; path = ../Newsboys.png; sourceTree = "<group>"; };
+		4E65C58E18CC2058007543C7 /* Petra Praise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Petra Praise.png"; path = "../Petra Praise.png"; sourceTree = "<group>"; };
+		4E65C58F18CC2058007543C7 /* Pray For Rain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Pray For Rain.png"; path = "../Pray For Rain.png"; sourceTree = "<group>"; };
+		4E65C59018CC2058007543C7 /* Skillet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Skillet.png; path = ../Skillet.png; sourceTree = "<group>"; };
+		4E65C59918CC2077007543C7 /* Audio Adrenaline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Audio Adrenaline.png"; path = "../../Downloads/Audio Adrenaline.png"; sourceTree = "<group>"; };
+		4E65C59B18CC20F5007543C7 /* Twila Paris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Twila Paris.png"; path = "../Twila Paris.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +125,8 @@
 		4E65C52F18CC0A90007543C7 = {
 			isa = PBXGroup;
 			children = (
+				4E65C58818CC203D007543C7 /* Icon */,
+				4E65C57318CC1D3C007543C7 /* Photos */,
 				4E65C54118CC0A90007543C7 /* MyFaveBands */,
 				4E65C56318CC0A90007543C7 /* MyFaveBandsTests */,
 				4E65C53A18CC0A90007543C7 /* Frameworks */,
@@ -115,6 +157,7 @@
 		4E65C54118CC0A90007543C7 /* MyFaveBands */ = {
 			isa = PBXGroup;
 			children = (
+				4E65C59D18CC22FA007543C7 /* iPad */,
 				4E65C54A18CC0A90007543C7 /* MyFaveBandsAppDelegate.h */,
 				4E65C54B18CC0A90007543C7 /* MyFaveBandsAppDelegate.m */,
 				4E65C54D18CC0A90007543C7 /* Main.storyboard */,
@@ -155,6 +198,47 @@
 				4E65C56618CC0A90007543C7 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4E65C57318CC1D3C007543C7 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				4E65C57E18CC1D8C007543C7 /* Audio Adrenaline.jpeg */,
+				4E65C57F18CC1D8C007543C7 /* Avalon.jpg */,
+				4E65C58018CC1D8C007543C7 /* Petra Praise.jpg */,
+				4E65C58118CC1D8C007543C7 /* Pray For Rain.jpg */,
+				4E65C58218CC1D8C007543C7 /* Skillet.jpg */,
+				4E65C57418CC1D6D007543C7 /* DC Talk.jpg */,
+				4E65C57518CC1D6D007543C7 /* Geoff Moore.jpg */,
+				4E65C57618CC1D6D007543C7 /* Michael W. Smith.jpg */,
+				4E65C57718CC1D6D007543C7 /* Newsboys.jpg */,
+				4E65C57818CC1D6D007543C7 /* Twila Paris.jpg */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
+		4E65C58818CC203D007543C7 /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				4E65C59B18CC20F5007543C7 /* Twila Paris.png */,
+				4E65C59918CC2077007543C7 /* Audio Adrenaline.png */,
+				4E65C58918CC2058007543C7 /* Avalon.png */,
+				4E65C58A18CC2058007543C7 /* DC Talk.png */,
+				4E65C58B18CC2058007543C7 /* Geoff Moore.png */,
+				4E65C58C18CC2058007543C7 /* Michael W. Smith.png */,
+				4E65C58D18CC2058007543C7 /* Newsboys.png */,
+				4E65C58E18CC2058007543C7 /* Petra Praise.png */,
+				4E65C58F18CC2058007543C7 /* Pray For Rain.png */,
+				4E65C59018CC2058007543C7 /* Skillet.png */,
+			);
+			name = Icon;
+			sourceTree = "<group>";
+		};
+		4E65C59D18CC22FA007543C7 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = iPad;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,8 +318,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E65C58418CC1D8C007543C7 /* Avalon.jpg in Resources */,
+				4E65C59C18CC20F5007543C7 /* Twila Paris.png in Resources */,
 				4E65C55718CC0A90007543C7 /* Images.xcassets in Resources */,
+				4E65C57C18CC1D6D007543C7 /* Newsboys.jpg in Resources */,
+				4E65C57A18CC1D6D007543C7 /* Geoff Moore.jpg in Resources */,
+				4E65C59218CC2058007543C7 /* DC Talk.png in Resources */,
+				4E65C59718CC2058007543C7 /* Pray For Rain.png in Resources */,
+				4E65C58718CC1D8C007543C7 /* Skillet.jpg in Resources */,
+				4E65C58318CC1D8C007543C7 /* Audio Adrenaline.jpeg in Resources */,
+				4E65C58518CC1D8C007543C7 /* Petra Praise.jpg in Resources */,
+				4E65C57B18CC1D6D007543C7 /* Michael W. Smith.jpg in Resources */,
+				4E65C57918CC1D6D007543C7 /* DC Talk.jpg in Resources */,
 				4E65C54618CC0A90007543C7 /* InfoPlist.strings in Resources */,
+				4E65C59818CC2058007543C7 /* Skillet.png in Resources */,
+				4E65C59318CC2058007543C7 /* Geoff Moore.png in Resources */,
+				4E65C59418CC2058007543C7 /* Michael W. Smith.png in Resources */,
+				4E65C59618CC2058007543C7 /* Petra Praise.png in Resources */,
+				4E65C59A18CC2077007543C7 /* Audio Adrenaline.png in Resources */,
+				4E65C58618CC1D8C007543C7 /* Pray For Rain.jpg in Resources */,
+				4E65C57D18CC1D6D007543C7 /* Twila Paris.jpg in Resources */,
+				4E65C59518CC2058007543C7 /* Newsboys.png in Resources */,
+				4E65C59118CC2058007543C7 /* Avalon.png in Resources */,
 				4E65C54F18CC0A90007543C7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -388,7 +492,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyFaveBands/MyFaveBands-Prefix.pch";
 				INFOPLIST_FILE = "MyFaveBands/MyFaveBands-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -401,7 +507,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyFaveBands/MyFaveBands-Prefix.pch";
 				INFOPLIST_FILE = "MyFaveBands/MyFaveBands-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -467,6 +575,7 @@
 				4E65C56F18CC0A90007543C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4E65C57018CC0A90007543C7 /* Build configuration list for PBXNativeTarget "MyFaveBandsTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +584,7 @@
 				4E65C57218CC0A90007543C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
